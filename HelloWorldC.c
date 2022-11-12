@@ -4,4 +4,5 @@
 
 int main() {
     puts("Hello World!");
+    puts("Hello C!")
 }
